@@ -1,4 +1,4 @@
-# PDF Merger
+<h2><a href="https://knowledgeless.github.io/PDF_Merger/">Use Online PDF Merger </a></h2>
 
 Merge as many PDFs as you want into one `merged_output.pdf` — in your browser,
 or from the command line. No server, no sign-up, nothing uploaded anywhere.
